@@ -1,4 +1,4 @@
-# WebMarket_Object_Detection
+# Task - WebMarket_Object_Detection
 ## 1. The data format we have:
 ![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Images/1.PNG)
 
@@ -76,3 +76,4 @@ Every thing is explained in the ![ Colab Notebook ](https://github.com/Chitralwa
 
 ![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Results/download%20(20).jfif)
 
+------------------------------------------------------------------------------------------------------------------------------
