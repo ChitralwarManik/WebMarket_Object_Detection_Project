@@ -1,6 +1,7 @@
 
 # WebMarket_Object_Detection
 
+**Problem Statement :** Analyses images of retail shelf displays, and detect the object present on the shelf and provides corrective feedback to help CPG manufacturers and retailers achieve perfect in-store execution.
 
 
 ## 1. What we have is:
