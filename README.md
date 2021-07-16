@@ -1,11 +1,16 @@
-# ParallelDot 
+
+# WebMarket_Object_Detection
 
 
-# Task - WebMarket_Object_Detection
-# Approach :
-## 1. The data format we have:
+
+## 1. What we have is:
+### Images :![Images](https://drive.google.com/drive/folders/1rikIcDLgPvGW8kl8dcnGg1ucJLeowL9t?usp=sharing)
+
+and their 
+### Annotation in csv format : ![Annotations](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/WebMarket_coco_gt_object.csv)
+
+## Data format we have :
 ![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Images/1.PNG)
-
 
 ## 2. The data format we want :
 ![](https://github.com/ChitralwarManik/WebMarket_Object_Detection/blob/main/Images/2.PNG)
